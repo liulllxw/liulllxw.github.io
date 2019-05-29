@@ -1,8 +1,8 @@
 # Site settings
-title: BY Liuxw
+title: Liuxw
 SEOTitle: 刘学文的博客 | BY Liuxw
 header-img: img/post-bg-desk.jpg
-email: heyliuxw@gmail.com
+email: liull19970205@163.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Liuxw, 刘学文的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
 url: "http://liulllxw.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Wisdom comes from hard work, great from ordinary!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/liuxw.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+disqus_username: liuxuewen
 
 # Gitalk
 gitalk:
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-140920307-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
